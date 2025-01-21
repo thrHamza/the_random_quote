@@ -3,12 +3,12 @@
 
 **Installation
 -Install the module via npm: 
-(npm install quote_project)
+(npm install the_random_quote)
 
 **Usage
 -Here’s a quick example of how to use QuotesFetcher in your project:
 
-import QuotesFetcher from 'quote_project';
+const QuotesFetcher = require('the_random_quote');
 
 async function showQuote() {
   const quotesFetcher = new QuotesFetcher();

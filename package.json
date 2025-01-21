@@ -1,8 +1,8 @@
 {
   "name": "the_random_quote",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "random quote generator",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

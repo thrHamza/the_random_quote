@@ -1,4 +1,4 @@
-const QuotesFetcher = require('./quotes.js');
+const QuotesFetcher = require('./index.js');
 
 async function showQuote() {
   const quotesFetcher = new QuotesFetcher();
